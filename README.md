@@ -1,2 +1,2 @@
 # SimpleCart
-A mini web app that supports uploading/deleting products and modifying cart.
+A mini web app that supports CRUD operations on products and shopping cart.
